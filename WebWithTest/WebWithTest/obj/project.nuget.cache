@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lHQ3+MBfMGs552jUPQMs809dv45yZseHEuwRyJABuc6Nm4YyXCD4Q4kDYT5MBpaMWuJiPi4bHkCNuSWtNDe0Cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moudr_000\\Source\\Repos\\itiscs\\ASP_2021\\WebWithTest\\WebWithTest\\WebWithTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moudr_000\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
