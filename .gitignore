@@ -27,3 +27,7 @@
 /WebApiSecond/.vs/WebApiSecond
 /WebApiSecond/WebApiSecond/bin/Debug/netcoreapp3.1
 /WebApiSecond/WebApiSecond/obj
+/DtoApp/.vs/DtoApp
+/DtoApp/DtoApp/obj
+/DtoApp/DtoAppSecond/bin/Debug/netcoreapp3.1
+/DtoApp/DtoAppSecond/obj
