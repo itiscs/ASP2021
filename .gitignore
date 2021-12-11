@@ -31,3 +31,10 @@
 /DtoApp/DtoApp/obj
 /DtoApp/DtoAppSecond/bin/Debug/netcoreapp3.1
 /DtoApp/DtoAppSecond/obj
+/App2/.vs/App2
+/App2/App2/App2/bin/Debug/netstandard2.0
+/App2/App2/App2/obj
+/App2/App2/App2.Android/bin/Debug
+/App2/App2/App2.Android/obj
+/App2/App2/App2.UWP/bin/x86/Debug
+/App2/App2/App2.UWP/obj

@@ -9,9 +9,10 @@ using System.Threading.Tasks;
 
 namespace DtoAppSecond.Controllers
 {
-    
 
-    [Route("api/[controller]")]
+
+    // [Route("api/[controller]")]
+    [Route("api/dto")]
     [ApiController]
     public class EmpsController : ControllerBase
     {
@@ -22,7 +23,7 @@ namespace DtoAppSecond.Controllers
         }
         // GET: api/Emps
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<EmployeeDto>>> GetEmps()
+        public ActionResult<IEnumerable<EmployeeDto>> GetEmps()
         {
             return _context.Employees.Select(e => new EmployeeDto()
             {
